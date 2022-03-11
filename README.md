@@ -2,7 +2,7 @@
 
 Opa, meu nome é Rodrigo, sou amante de tecnologia atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
 
-- :rocket: Atualmente trabalho como Especialista de Infraestrutura (CIP)
+- :rocket: Atualmente trabalho como SRE (BTG Pactual)
 
 - :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais sobre tecnologias.
 
